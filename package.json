@@ -1,0 +1,22 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "JavaScript Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnmnd/jsPlayground.git"
+  },
+  "author": "Garrett Sand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnmnd/jsPlayground/issues"
+  },
+  "homepage": "https://github.com/vnmnd/jsPlayground#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
