@@ -1,1 +1,1 @@
-Basic JavaScript object playground
+Basic JavaScript object playground. Similiar to Brook's PumpkinPatch example in class.
